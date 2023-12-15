@@ -1,1 +1,2 @@
-print("print your weight (use kg-s, not lb-s)")
+print("enter your mass (not lbs, use kilograms")
+m = float(input()) # m is mass in kilograms
