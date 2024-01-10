@@ -1,4 +1,4 @@
-print()
+print(print your weight)
 m = float(input())  
 print()
 h = float(input())  
