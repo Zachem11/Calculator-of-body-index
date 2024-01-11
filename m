@@ -1,8 +1,8 @@
 print(print your weight)
-m = float(input())  
+m = float(input()) # m it is a weigh (kg-s)
 print()
 h = float(input())  
-c = m / h ** 2 
+c = m / h ** 2 # it is height (metres)
 if c < 16:
     print(")
 if 16 < c < 18.5:
