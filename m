@@ -4,7 +4,7 @@ print()
 h = float(input())  
 c = m / h ** 2 # it is height (metres)
 if c < 16:
-    print(")
+    print("critical deficit of weitght")
 if 16 < c < 18.5:
     print("")
 if 18.5 < c < 25:
