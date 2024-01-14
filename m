@@ -1,4 +1,4 @@
-print(print your weight)
+print("print your weight")
 m = float(input()) # m it is a weigh (kg-s)
 print()
 h = float(input())  
