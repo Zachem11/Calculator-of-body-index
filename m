@@ -1,6 +1,6 @@
 print("print your weight")
 m = float(input()) #m it is a weigh (kg-s)
-print("")
+print("print your height")
 h = float(input())  
 c = m / h ** 2 #it is height (metres)
 if c < 16:
