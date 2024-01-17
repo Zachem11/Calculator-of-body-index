@@ -8,7 +8,7 @@ if c < 16:
 if 16 < c < 18.5:
     print("mass deficit")
 if 18.5 < c < 25:
-    print("")
+    print("normal weight")
 if 25 < c < 30:
     print("")
 if 30 < c < 35:
