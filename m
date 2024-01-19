@@ -10,7 +10,7 @@ if 16 < c < 18.5:
 if 18.5 < c < 25:
     print("normal weight")
 if 25 < c < 30:
-    print("")
+    print("overweight")
 if 30 < c < 35:
     print("")
 if 35 < c < 40:
