@@ -14,6 +14,6 @@ if 25 < c < 30:
 if 30 < c < 35:
     print("first degree obesity")
 if 35 < c < 40:
-    print("")
+    print("second degree obesity")
 if c > 40:
     print("")
