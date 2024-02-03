@@ -1,5 +1,5 @@
 print("print your weight")
-m = float(input()) #m it is a weigh (kg-s)
+m = float(input()) #m it is a weigh (use kg-s)
 print("print your height")
 h = float(input())  
 c = m / h ** 2 #h is height (metres)
