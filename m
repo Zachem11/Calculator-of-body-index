@@ -1,7 +1,7 @@
 print("print your weight")
 m = float(input()) #m it is a weigh (use kg-s, not lb-s)
 print("print your height")
-h = float(input()) (use metres 
+h = float(input()) (use metres, not - ft-s) 
 c = m / h ** 2 #h is height (metres)
 if c < 16:#c is mass index
     print("critical mass deficit")
