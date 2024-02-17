@@ -1,9 +1,9 @@
-print("print weight of your body")
-m = float(input()) #m it is a weigh (use kg-s, not lb-s)
-print("print your height")
-h = float(input()) (use metres, not - ft-s) 
+print("print weight of your body (use kg-s, not lb-s)")
+m = float(input())
+print("print your height (use metres, not - ft-s) ")
+h = float(input()) 
 c = m / h ** 2 #h is height (metres)
-if c < 16:#c is mass index
+if c < 16: #c is mass index
     print("critical mass deficit")
 if 16 < c < 18.5:
     print("mass deficit")
