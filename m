@@ -1,6 +1,6 @@
 print("print weight of your body (use kg-s, not lb-s)")
 m = float(input()) #m is mass
-print("print your height (use metres, not - ft-s) ")
+print("print your height (use metres, not - ft-s)")
 h = float(input()) #h is height
 c = m / h ** 2 #h is height (metres)
 if c < 16: #c is mass index
