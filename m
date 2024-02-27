@@ -19,3 +19,4 @@ if c > 40:
     print("third degree obesity")
 # Can be used to calculate body index.
 # NO GUI
+# PyCharm 2023.2.2 (Community Edition)
