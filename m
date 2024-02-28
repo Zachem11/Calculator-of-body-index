@@ -1,4 +1,4 @@
-print("print weight of your body (use kg-s, not lb-s)")
+print("print weight of your body (use kg-s, not - lb-s)")
 m = float(input()) # m is mass
 print("print your height (use metres, not - ft-s)")
 h = float(input()) # h is height
