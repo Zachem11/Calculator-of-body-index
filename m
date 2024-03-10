@@ -21,4 +21,4 @@ if c > 40:
 # NO GUI
 # Python 3.10.2
 # PyCharm 2023.2.2 (Community Edition)
-# GPL
+# GPLv3
