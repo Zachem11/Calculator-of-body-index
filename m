@@ -17,6 +17,8 @@ if 35 < c < 40:
     print("second degree obesity")
 if c > 40:
     print("third degree obesity")
+else:
+    print(
     
 # Can be used to calculate body index.
 # NO GUI
