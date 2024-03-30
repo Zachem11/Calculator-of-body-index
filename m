@@ -18,7 +18,7 @@ if 35 < c < 40:
 if c > 40:
     print("third degree obesity")
 else:
-    print("Error, input another number")
+    print("Error, input another number") # more normal sentence is required
     
 # Can be used to calculate body index.
 # NO GUI
