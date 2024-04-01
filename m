@@ -1,6 +1,7 @@
 print("Step one")
 print("print weight of your body (use kg-s, not - lb-s)")
 m = float(input()) # m is mass
+print("Step two")
 print("print your height (use metres, not - ft-s)")
 h = float(input()) # h is height
 c = m / h ** 2 # c is body index
@@ -18,8 +19,7 @@ if 35 < c < 40:
     print("second degree obesity")
 if c > 40:
     print("third degree obesity")
-else:
-    print("Error, input another number") # more normal sentence is required
+
     
 # Can be used to calculate body index.
 # NO GUI
