@@ -1,9 +1,11 @@
 print("Step one")
-print("print weight of your body (use kg-s, not - lb-s)")
+print("print weight of your body (use kilograms)")
 m = float(input()) # m is mass
+
 print("Step two")
-print("print your height (use metres, not - ft-s)")
+print("print your height (use centimeters)")
 h = float(input()) # h is height
+
 c = m / h ** 2 # c is body index
 if c < 16: 
     print("critical mass deficit")
