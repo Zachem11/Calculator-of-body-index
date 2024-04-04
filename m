@@ -1,9 +1,9 @@
 print("Step one")
-print("print weight of your body (use kilograms)")
+print("enter your weight (use kilograms)")
 m = float(input()) # m is mass
 
 print("Step two")
-print("print your height (use centimeters)")
+print("enter your height (use metres)")
 h = float(input()) # h is height
 
 c = m / h ** 2 # c is body index
