@@ -7,7 +7,7 @@ print("enter your height (use metres)")
 h = float(input()) # h is height
 
 i = m / h ** 2 # c is body index
-print(c)
+print(i)
 if i < 16: 
     print("critical mass deficit")
 if 16 < i < 18.5:
