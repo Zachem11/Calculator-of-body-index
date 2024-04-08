@@ -27,5 +27,4 @@ if i > 40:
 # Can be used to calculate body index.
 # NO GUI
 # Python 3.10.2
-# PyCharm 2023.2.2 (Community Edition)
 # GPLv3
