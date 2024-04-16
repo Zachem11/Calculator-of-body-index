@@ -1,3 +1,5 @@
+n = 1
+while n < 6:
 print("Step one")
 print("enter your weight (use kilograms)")
 m = float(input())  # m is mass
