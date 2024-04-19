@@ -1,4 +1,5 @@
-print("Step one")
+def (calculation)
+    print("Step one")
 print("enter your weight (use kilograms)")
 m = float(input())  # m is mass
 
