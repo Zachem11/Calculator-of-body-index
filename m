@@ -25,6 +25,8 @@ if 35 < index < 40:
     print("second degree obesity")
 if index > 40:
     print("third degree obesity")
+    
+n = 1
 
     
 # Can be used to calculate body index.
