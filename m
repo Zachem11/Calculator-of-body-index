@@ -1,5 +1,4 @@
-def (calculation)
-    print("Step one")
+print("Step one")
 print("enter your weight (use kilograms)")
 m = float(input())  # m is mass
 
@@ -25,8 +24,7 @@ if 35 < index < 40:
     print("second degree obesity")
 if index > 40:
     print("third degree obesity")
-    
-n = 1
+# Have to do cycle in future   
 
     
 # Can be used to calculate body index.
