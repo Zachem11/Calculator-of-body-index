@@ -9,17 +9,17 @@ h = float(input())  # h is height
 index = m / h ** 2  # index is body index
 if index < 16: 
     print("critical mass deficit")
-if 16 < index < 18.5:
+if 16 <= index < 18.5:
     print("mass deficit")
-if 18.5 < index < 25:
+if 18.5 <= index < 25:
     print("normal weight")
-if 25 < index < 30:
+if 25 <= index < 30:
     print("overweight")
-if 30 < index < 35:
+if 30 <= index < 35:
     print("first degree obesity")
-if 35 < index < 40:
+if 35 <= index < 40:
     print("second degree obesity")
-if index > 40:
+if index >= 40:
     print("third degree obesity")
 # Have to do cycle in future   
 
