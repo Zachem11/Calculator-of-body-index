@@ -1,12 +1,13 @@
 print("Step one")
 print("enter your weight (use kilograms)")
-m = float(input())  # m is massif isinstance(m, float):
+m = float(input())  # m is mass
+if isinstance(m, float):
     print("Step two")
 print("enter your height (use metres)")
 h = float(input())  # h is heightif isinstance(h, float):
     pass  # Lacks elegance
-index = m / h ** 2  # index is body 
-indexpositive_index = abs(index)  # body index must be positive
+index = m / h ** 2  # index is body index
+positive_index = abs(index)  # body index must be positive
 if positive_index < 16:
     print("critical mass deficit")
 if 16 <= positive_index < 18.5:
