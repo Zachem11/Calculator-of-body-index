@@ -1,11 +1,11 @@
 print("Step one")
+
 print("enter your weight (use kilograms)")
-m = float(input())  # m is mass
-if isinstance(m, float):
-    print("Step two")
+m = float(input())  # m is mass 
+
 print("enter your height (use metres)")
-h = float(input())  # h is heightif isinstance(h, float):
-    pass  # Lacks elegance
+h = float(input())  # h is height
+
 index = m / h ** 2  # index is body index
 positive_index = abs(index)  # body index must be positive
 if positive_index < 16:
